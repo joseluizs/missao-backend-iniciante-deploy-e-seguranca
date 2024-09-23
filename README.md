@@ -1,2 +1,2 @@
-# missao-backend-iniciante-deploy-e-seguranca
-Projeto da missão de Aprendizado da profissão Dev Backend JavaScript, nível iniciante: Deploy e Segurança 
+# Backend - Iniciante - Missão de Aprendizado:
+Projeto da missão de Aprendizado da profissão Dev Backend JavaScript, nível iniciante: Deploy e Segurança
